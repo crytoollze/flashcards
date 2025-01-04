@@ -1,5 +1,5 @@
-const SHEET_ID = '스프레드시트ID'; // 스프레드시트 ID를 여기에 입력
-const API_KEY = 'API키'; // API 키를 여기에 입력
+const SHEET_ID = '1YxMWaGhyURAuVBEKX9HaTY3ZbVUcmWBrlNxSefHhZJ8'; // 스프레드시트 ID를 여기에 입력
+const API_KEY = 'AIzaSyB9b3p2Z8f0ufVFI3x2wewvbiyWhWr5FgY'; // API 키를 여기에 입력
 const SHEET_NAME = 'Sheet1'; // 시트 이름 (보통 "Sheet1")
 
 async function fetchSheetData() {
